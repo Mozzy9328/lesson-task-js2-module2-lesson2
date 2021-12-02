@@ -1,0 +1,15 @@
+li {
+	position: relative;
+	list-style: none;
+	background-color: antiquewhite;
+	padding: 10px;
+}
+
+input[type="checkbox"] {
+	position: absolute;
+	right: 0;
+}
+
+span.checked {
+	opacity: 50%;
+}
